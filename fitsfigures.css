@@ -1,0 +1,85 @@
+ul {
+list-style-type:none;
+width: 200px;
+bottom: 25px;
+position: absolute;
+}
+
+li {
+	margin: 10px 15px;
+}
+
+li a {
+	font-size: 16;
+	font-style: italic;
+	font-family: Times New Roman;
+	text-decoration: none;
+	color: gray;
+
+}
+
+h1 {
+	font-size: 100;
+	font-style: italic;
+	font-family: Times New Roman;
+	-webkit-text-fill-color: white;
+	-webkit-text-stroke-color: gray;
+	-webkit-text-stroke-width: .5px;
+	position: absolute;
+	margin: 50px 50px;
+	cursor: default;
+	background: none;
+}
+
+.text {
+	font-size: 30;
+	position: absolute;
+	margin: 150px 75px;
+	font-family: Times New Roman;
+	font-style: italic;
+}
+
+.text2 {
+	font-size: 30;
+	position: absolute;
+	font-family: Times New Roman;
+	font-style: italic;
+	bottom:5%;
+	left: 40%;
+}
+
+.text3 {
+	font-size: 30;
+	position: absolute;
+	font-family: Times New Roman;
+	font-style: italic;
+	bottom:-60%;
+	left: 0%;
+	right: 50%;
+}
+
+.text4 {
+	font-size: 30;
+	position: absolute;
+	font-family: Times New Roman;
+	font-style: italic;
+	bottom:-130%;
+	left: 40%;
+}
+
+.text5 {
+	font-size: 30;
+	position: absolute;
+	font-family: Times New Roman;
+	font-style: italic;
+	bottom:-180%;
+	left: 0%;
+	right: 50%;
+}
+
+
+img {
+	width: 400px;
+	height: 500px;
+	margin-left: 400px;
+}

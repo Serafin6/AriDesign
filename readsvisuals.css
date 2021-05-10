@@ -1,0 +1,113 @@
+/*.NeriOxman {
+	position: absolute;
+	float: left;
+	left: 400px;
+	top: 300px;
+}
+
+.neri {
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	float: left;
+	top: -250px;
+	left: -20px;
+}
+
+.Reebox {
+	position: absolute;
+	display: block;
+	left: 80px;
+	float: left;
+
+	left: 350px;
+}
+
+.nicole {
+	position: absolute;
+	width: 250px;
+	height: 300px;
+	top: 1050px;
+	left: 350px;
+	}
+*/
+
+
+p {
+	font-family: Futura;
+}
+
+.left-div {
+	float: left;
+	margin-left: 500px;
+	margin-right: 8px;
+	display: inline-block;
+}
+
+.left-div img {
+	margin-bottom: 10px;
+	margin-left: 8px;
+}
+
+
+.right-div{  
+	margin-left: 108px;
+		display: inline-block;
+}
+
+.right-div img {
+	height: 400px;
+	width: 400px;
+	margin-bottom: 200px;
+	margin-left: 108px;
+}
+
+iframe {
+	height: 400px;
+}
+
+#image {
+	margin-left: 50px;
+	width: 200px;
+	height: 200px;
+}
+#image2 {
+	width: 400px;
+	height: 500px;
+}
+
+body {
+	background-color: #ffffe6;
+}
+ul {
+list-style-type:none;
+width: 200px;
+bottom: 25px;
+position: absolute;
+}
+
+li {
+	margin: 10px 15px;
+}
+
+li a {
+	font-size: 16;
+	font-style: italic;
+	font-family: Times New Roman;
+	text-decoration: none;
+	color: black;
+
+}
+
+h1 {
+	font-size: 100;
+	font-style: italic;
+	font-family: Times New Roman;
+	-webkit-text-fill-color: #ffffe6;
+	-webkit-text-stroke-color: black;
+	-webkit-text-stroke-width: 1px;
+	position: absolute;
+	margin: 50px 50px;
+	cursor: default;
+	background: none;
+}
